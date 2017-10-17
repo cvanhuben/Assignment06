@@ -2,9 +2,6 @@
     $currentTitle = "Cj Van Huben Scrolly Page";
     include "includes/top.inc"; ?>
 
-<body>
-
-   
 
 <body>
 
