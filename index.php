@@ -1,5 +1,5 @@
 <?php 
-    $currentTitle = "Cj Van Huben Scrolly Page";
+     // $currentTitle = "Cj Van Huben Scrolly Page"; 
     include "includes/top.inc"; ?>
 
 
@@ -12,6 +12,12 @@
     ?>
 
     <!-- Top Section -->
+
+    <?php
+        include "includes/page1.inc"
+    ?>
+
+
     <section id="first">
         <div class="container">
 
