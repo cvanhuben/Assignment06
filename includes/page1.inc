@@ -2,7 +2,7 @@
     <section id="first">
         <div class="container">
 
-            <h1>First Section</h1>
+            <h1>Welcome to CSC 174</h1>
 
             <div class="content">
 
