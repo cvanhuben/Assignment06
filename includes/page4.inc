@@ -1,7 +1,7 @@
  <section id="forth">
         <div class="container">
 
-            <h1>Forth Section</h1>
+            <h1>About</h1>
 
             <div class="content">
 

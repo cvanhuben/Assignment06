@@ -1,9 +1,10 @@
 
     <nav class="main-menu">
         <ul>
-            <li><a href="#first">First</a></li>
-            <li><a href="#second">Second</a></li>
-            <li><a href="#third">Third</a></li>
-            <li><a href="#forth">Forth</a></li>
+            <li><a href="#first">Welcome</a></li>
+            <li><a href="#second">Jerry</a></li>
+            <li><a href="#third">Ali</a></li>
+            <li><a href="#forth">About</a></li>
+
         </ul>
     </nav>

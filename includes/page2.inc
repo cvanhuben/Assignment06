@@ -13,7 +13,7 @@
                 <img class="frame" src="http://lorempixel.com/300/350/cats/" alt="kitties">
 
 
-                <<h2>Personal Bio</h2>
+                <h2>Personal Bio</h2>
                 <p>
                     Hi my name is Jerry and I am a junior at the U of R. I'm from Queens, NY but my parents moved to Brooklyn from China when they were in their early 20s. My hobbies are music, lifting, and cooking. My favorite foods include halal, vodka slices, and sushi. I am double majoring in Business and Computer Science and I'm interested in working in finance in the future. Next summer, I will be interning at EY LLP as part of the FSO Technology Advisor Program.
                 </p>

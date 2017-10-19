@@ -5,7 +5,7 @@
 
             <div class="content">
 
-                <img class="right frame" src="http://lorempixel.com/250/250/cats/" alt="kitties">
+                <img class="right frame" src="img/ali.jpg" alt="Ali" width="500" height="650">
                 
                 <h2>About Me</h2>
 					<p>

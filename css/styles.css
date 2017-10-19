@@ -1,7 +1,12 @@
 /*	****************************************
 	Demo styles (for demo purposes only)
 	**************************************** */
-p { margin-top: 0; }
+p { margin-top: 0; 
+	font-color: red;
+
+}
+
+
 
 .right {
 	float: right;
@@ -25,4 +30,11 @@ p { margin-top: 0; }
 .content {
 	text-align: left;
 	overflow: auto;
+}
+
+#first{
+	background: url(../img/stock.jpg);
+	-webkit-background-size: cover;
+  	background-size: cover;
+
 }
