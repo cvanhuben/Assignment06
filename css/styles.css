@@ -28,7 +28,7 @@ h1{
 .container {
 	margin: 0 auto;
 	width: 95%;
-	max-width: 960px; 
+	max-width: 75%; 
 
 }
 
@@ -49,25 +49,30 @@ h1{
 	text-align: left;
 
 }
-.main-title{
 
-	padding-left: 15px;
-	font-size: 35px;
+.main-title{
+	
+	font-family:'Quicksand',sans-serif; 
+
+	padding-left: 25px;
+	font-size: 40px;
 	color: white;
-	-webkit-text-stroke-width: 1px;
-   -webkit-text-stroke-color: black;
+	/*-webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;*/
 }
 .main-menu{
 	font-weight:bold;
+	font-family: 'Nunito';
+	background:white;
 }
 .CSC{
 	position: absolute;
-	left:50%;
+	left:48%;
 	letter-spacing: .15em;
 	
 
 }
 .home{
 	position: absolute;
-	left:95%;
+	left:90%;
 }

@@ -21,7 +21,7 @@ html, body {
 	/* standard removal of UL styles */
 
 	margin: 0;
-	padding-left: 0;
+	padding-left: 80px;
 	list-style-type: none;
 
 	/* required - get LIs to line-up side-by-side */
@@ -31,7 +31,8 @@ html, body {
 .main-menu a { 
 	/* typical - make links look/act like buttons */
 	display: block;
-	padding: 15px;
+	padding: 20px;
+
 	color: #666;
 
 	text-decoration: none;
