@@ -51,14 +51,20 @@ h1{
 }
 .main-title{
 
-	font-size: 55px;
+	padding-left: 15px;
+	font-size: 35px;
 	color: white;
 	-webkit-text-stroke-width: 1px;
    -webkit-text-stroke-color: black;
 }
 .CSC{
+	position: absolute;
+	left:50%;
 	letter-spacing: .15em;
 	font-weight:bold;
 
-	
+}
+.home{
+	position: absolute;
+	left:95%;
 }
