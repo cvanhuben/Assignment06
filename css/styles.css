@@ -57,11 +57,14 @@ h1{
 	-webkit-text-stroke-width: 1px;
    -webkit-text-stroke-color: black;
 }
+.main-menu{
+	font-weight:bold;
+}
 .CSC{
 	position: absolute;
 	left:50%;
 	letter-spacing: .15em;
-	font-weight:bold;
+	
 
 }
 .home{

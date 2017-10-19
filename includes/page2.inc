@@ -6,12 +6,7 @@
 
             <div class="content">
 
-                <img class="frame" src="http://lorempixel.com/200/350/cats/" alt="kitties">
-
-                <img class="frame" src="http://lorempixel.com/250/350/cats/" alt="kitties">
-
-                <img class="frame" src="http://lorempixel.com/300/350/cats/" alt="kitties">
-
+                
 
                 <h2>Personal Bio</h2>
                 <p>
