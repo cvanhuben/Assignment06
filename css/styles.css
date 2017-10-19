@@ -2,8 +2,12 @@
 	Demo styles (for demo purposes only)
 	**************************************** */
 p { margin-top: 0; 
-	font-color: red;
+	line-height: 1.25em;
 
+}
+
+h1{
+	letter-spacing: .15em;
 }
 
 
@@ -25,11 +29,13 @@ p { margin-top: 0;
 	margin: 0 auto;
 	width: 95%;
 	max-width: 960px; 
+
 }
 
 .content {
 	text-align: left;
 	overflow: auto;
+
 }
 
 #first{
@@ -37,4 +43,22 @@ p { margin-top: 0;
 	-webkit-background-size: cover;
   	background-size: cover;
 
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: left;
+
+}
+.main-title{
+
+	font-size: 55px;
+	color: white;
+	-webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+}
+.CSC{
+	letter-spacing: .15em;
+	font-weight:bold;
+
+	
 }
