@@ -3,11 +3,13 @@
 	**************************************** */
 p { margin-top: 0; 
 	line-height: 1.25em;
+	font-family: 'Nunito';
 
 }
 
 h1{
 	letter-spacing: .15em;
+	font-family: 'Quicksand', sans-serif;
 }
 
 
