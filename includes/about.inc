@@ -1,4 +1,4 @@
- <section id="forth">
+ <section id="fourth">
         <div class="container">
 
             <h1>About</h1>

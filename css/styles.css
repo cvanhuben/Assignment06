@@ -63,7 +63,9 @@ a{
 	text-align: left;
 
 }
-
+p {
+	max-width: 40%;
+}
 
 .main-title{
 	
@@ -72,8 +74,6 @@ a{
 	padding-left: 25px;
 	font-size: 40px;
 	color: white;
-	/*-webkit-text-stroke-width: 1px;
-   -webkit-text-stroke-color: black;*/
 }
 .main-menu{
 	font-weight:bold;
@@ -90,4 +90,7 @@ a{
 .home{
 	position: absolute;
 	left:90%;
+}
+.skill{
+	float:right;
 }

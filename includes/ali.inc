@@ -5,7 +5,27 @@
 
             <div class="content">
 
-                <img class="right frame" src="img/ali.jpg" alt="Ali" width="500" height="650">
+            	<div class = right>
+                <img src="img/ali.jpg" alt="Ali" width="350" height="450">
+                <h2 >Skills</h2>
+					
+				
+					<h3 >Computer Skills</h3>
+					<ul>
+						<li>Adobe Experience Design</li>
+						<li>Adobe Illustrator</li>
+						<li>Adobe Photoshop</li>
+						<li>HTML & CSS</li>
+						<li>Java</li>
+						<li>JavaScript</li>
+						<li>Matlab</li>
+						<li>Microsoft Office</li>
+						<li>Python</li>
+						<li>Swift</li>
+					</ul>
+				
+				
+            	</div>
                 
                 <h2>About Me</h2>
 					<p>
@@ -35,34 +55,7 @@
 			<!-- four -->
 
 			
-				<h2 >Skills</h2>
-					
 				
-					<h3 >Computer Skills</h3>
-					<ul>
-						<li>Adobe Experience Design</li>
-						<li>Adobe Illustrator</li>
-						<li>Adobe Photoshop</li>
-						<li>HTML & CSS</li>
-						<li>Java</li>
-						<li>JavaScript</li>
-						<li>Matlab</li>
-						<li>Microsoft Office</li>
-						<li>Python</li>
-						<li>Swift</li>
-					</ul>
-				
-				
-					<h3 >Optics Skills</h3>
-					<ul>
-						<li>Alignment & Mounting Optics</li>
-						<li>Code V</li>
-						<li>Laser Engineering</li>
-						<li>Lithography</li>
-						<li>Liquid Crystal Design</li>
-						<li>Optoelectronics</li>
-						<li>Zemax</li>
-					</ul>
 				
 
             </div><!-- .content -->
