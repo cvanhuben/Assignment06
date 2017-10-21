@@ -14,25 +14,25 @@
     <!-- Top Section -->
 
     <?php
-        include "includes/page1.inc"
+        include "includes/title.inc"
     ?>
 
     <!-- Second Section -->
 
     <?php
-        include "includes/page2.inc"
+        include "includes/jerry.inc"
 
     ?>
 
     <!-- Third Section -->
        <?php
-        include "includes/page3.inc"
+        include "includes/ali.inc"
 
     ?>
 
     <!-- Forth Section -->
       <?php
-        include "includes/page4.inc"
+        include "includes/about.inc"
 
     ?>
 

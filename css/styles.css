@@ -10,6 +10,12 @@ h1{
 	font-family: 'Quicksand', sans-serif;
 }
 
+a{
+	color: #666;
+
+	text-decoration: none;
+}
+
 
 
 .right {
