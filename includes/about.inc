@@ -16,7 +16,6 @@
                 <h3>Inspiration</h3>
                 <p>The inspiration for my website came from <a href="https://grovemade.com/">Grovemade</a>. It looks very simply, but everything just pops. It makes good use of the "Z-Pattern" at the end. Overall it does a good job not overwhelming the user with content. </p>
                 
-
             </div><!-- .content -->
 
        </div><!-- .container -->

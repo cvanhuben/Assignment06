@@ -2,6 +2,7 @@
 p { margin-top: 0; 
 	line-height: 1.25em;
 	font-family: 'Nunito';
+	max-width: 40%;
 
 }
 
@@ -25,11 +26,9 @@ a{
 	text-decoration: none;
 }
 
-
-
 .right {
 	float: right;
-	margin-left: 15px;
+
 }
 
 .frame {
@@ -63,9 +62,7 @@ a{
 	text-align: left;
 
 }
-p {
-	max-width: 40%;
-}
+
 
 .main-title{
 	
@@ -91,6 +88,24 @@ p {
 	position: absolute;
 	left:90%;
 }
-.skill{
-	float:right;
+
+.tagline p{
+	max-width: 100%
+}
+#page-footer {
+	height: 50px;
+	background:#eee;
+	position: relative;
+	font-family: 'Nunito';
+
+}
+#page-footer ul{
+	padding-top:9px;
+	display: flex;
+	list-style-type: none;
+	justify-content: flex-start;
+}
+.csc-footer{
+	position: absolute;
+	left:83%;
 }

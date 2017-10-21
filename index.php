@@ -36,6 +36,18 @@
 
     ?>
 
+    <footer id = "page-footer">
+        
+        <ul>
+            <li>Copyright 2017 - Cj Van Huben</li>
+
+            <div class="csc-footer"><li>CSC 174 - Professor Kostin</li></div>
+
+        </ul>
+
+
+    </footer>
+
 <!-- Use the following JavaScript code to do the smooth-scroll thing on the internal links -->
 <?php
     include "includes/scripts.inc"

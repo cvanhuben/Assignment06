@@ -3,9 +3,10 @@
 
             <h1>Ali Hashim</h1>
 
+            
             <div class="content">
 
-            	<div class = right>
+            	<div class = "right">
                 <img src="img/ali.jpg" alt="Ali" width="350" height="450">
                 <h2 >Skills</h2>
 					
@@ -28,8 +29,8 @@
             	</div>
                 
                 <h2>About Me</h2>
-					<p>
-						I’m a twenty-one year old optical engineer studying at the University of Rochester. I am passionate about manipulating light to create great products! I am also a self-taught mobile application developer and graphic designer and am looking to apply my skills to serve a design, testing, and manufacturing role.
+					<div class="tagline"><p>
+						I’m a twenty-one year old optical engineer studying at the University of Rochester.</p></div> <p> I am passionate about manipulating light to create great products! I am also a self-taught mobile application developer and graphic designer and am looking to apply my skills to serve a design, testing, and manufacturing role.
 					</p>
 				
 			
@@ -56,8 +57,7 @@
 
 			
 				
-				
-
+		
             </div><!-- .content -->
 
        </div><!-- .container -->
