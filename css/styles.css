@@ -8,6 +8,15 @@ p { margin-top: 0;
 h1{
 	letter-spacing: .15em;
 	font-family: 'Quicksand', sans-serif;
+	font-size: 40px;
+}
+h2{
+	font-family: 'Nunito';
+	letter-spacing: .07em;
+}
+h3{
+	font-family:'Nunito';
+	letter-spacing: .05em;
 }
 
 a{
@@ -34,6 +43,7 @@ a{
 	width: 95%;
 	max-width: 75%; 
 
+
 }
 
 .content {
@@ -53,6 +63,7 @@ a{
 	text-align: left;
 
 }
+
 
 .main-title{
 	
