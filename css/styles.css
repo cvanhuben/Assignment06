@@ -143,3 +143,16 @@ a{
 .links li{
 	font-size: 25px;
 }
+.call-to-action{
+	position: absolute;
+	top:90%;
+	left:70%;
+
+}
+.call-to-action p {
+	
+	max-width: 90%;
+	font-size: 25px;
+	letter-spacing: .08em;
+	line-height: 1.4em;
+}
