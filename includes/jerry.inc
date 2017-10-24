@@ -10,7 +10,8 @@
 
                 <h2>About Me</h2>
                 <div class="tagline"><p>
-                    Hi my name is Jerry and I am a junior at the U of R. I'm from Queens, NY but my parents moved to Brooklyn from China when they were in their early 20s.</p></div><p> My hobbies are music, lifting, and cooking. My favorite foods include halal, vodka slices, and sushi. I am double majoring in Business and Computer Science and I'm interested in working in finance in the future. Next summer, I will be interning at EY LLP as part of the FSO Technology Advisor Program.
+                    Hi my name is Jerry and I am a junior at the U of R. I'm from Queens, NY but my parents moved to Brooklyn from China when they were in their early 20s.</p></div><p> My hobbies are music, lifting, and cooking. My favorite foods include halal, vodka slices, and sushi. I am double majoring in Business and Computer Science and I'm interested in working in finance in the future. </p>
+                    <p> Next summer, I will be interning at EY LLP as part of the FSO Technology Advisor Program.
                 </p>
 
                 <h2>Experience</h2>
