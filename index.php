@@ -41,7 +41,7 @@
         <ul>
             <li>Copyright 2017 - Cj Van Huben</li>
 
-            <div class="csc-footer"><li>CSC 174 - Professor Kostin</li></div>
+            <li id="csc-footer">CSC 174 - Professor Kostin</li>
 
         </ul>
 

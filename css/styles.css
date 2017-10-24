@@ -77,14 +77,14 @@ a{
 	font-family: 'Nunito';
 	background:white;
 }
-.CSC{
+#CSC{
 	position: absolute;
 	left:48%;
 	letter-spacing: .15em;
 	
 
 }
-.home{
+#home{
 	position: absolute;
 	left:90%;
 }
@@ -105,7 +105,7 @@ a{
 	list-style-type: none;
 	justify-content: flex-start;
 }
-.csc-footer{
+#csc-footer{
 	position: absolute;
 	left:83%;
 }
